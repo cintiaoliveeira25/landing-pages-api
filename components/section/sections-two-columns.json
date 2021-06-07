@@ -1,8 +1,9 @@
 {
   "collectionName": "components_section_sections_two_columns",
   "info": {
-    "name": "sections_two_columns",
-    "icon": "ad"
+    "name": "section_two_columns",
+    "icon": "ad",
+    "description": ""
   },
   "options": {},
   "attributes": {

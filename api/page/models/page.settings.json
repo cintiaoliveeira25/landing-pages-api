@@ -23,7 +23,7 @@
       "targetField": "title",
       "required": true
     },
-    "section": {
+    "sections": {
       "type": "dynamiczone",
       "components": [
         "section.sections-two-columns",
